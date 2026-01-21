@@ -3,7 +3,7 @@
 -  I’m just a hobby programmer. (I just learn programming)
 -  I Use Arch btw!
 -  I’m an annoying Skid..
--  I develop websites. Check it out [here](https://botirocky.github.io/Botond-megint-a-neten/)!
+-  I develop my own website. Check out [here](https://botirocky.github.io/Botond-megint-a-neten/)!
   
 ![king terry](https://github.com/user-attachments/assets/06ace849-fcb5-4186-b239-90183813473d)
 
