@@ -3,6 +3,8 @@
 -  I’m just a hobby programmer. (I just learn programming)
 -  I Use Arch btw!
 -  I’m an annoying Skid..
+  
+![king terry](https://github.com/user-attachments/assets/06ace849-fcb5-4186-b239-90183813473d)
 
 <!--
 **Botirocky/botirocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
