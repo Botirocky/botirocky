@@ -1,5 +1,6 @@
 ## Hi there 👋
--  my name is Boti
+-  My name is Boti
+-  I want to help others, especially in subjects that I found difficult to learn on my own.
 -  I’m just a hobby programmer. (I just learn programming)
 -  I Use Arch btw!
 -  I’m an annoying Skid..😠
