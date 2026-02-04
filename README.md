@@ -5,6 +5,7 @@
 -  I Use Arch btw!
 -  I’m an annoying Skid..😠
 -  I develop my own website. Check out [here](https://botirocky.github.io/Botond-megint-a-neten/)!
+-  1984-∞
   
 ![king terry](https://github.com/user-attachments/assets/06ace849-fcb5-4186-b239-90183813473d)
 
