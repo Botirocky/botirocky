@@ -6,8 +6,7 @@
 -  I’m an annoying Skid..😠
 -  I develop my own website. Check out [here](https://botirocky.github.io/Botond-megint-a-neten/)!
 -  1984-∞
-
-![save eu](https://github.com/user-attachments/assets/95e6939a-1957-4151-ac63-30599a2a527b)
+<img width="680" height="272" alt="M.E.G.A." src="https://github.com/user-attachments/assets/e5f79e0b-ed5a-4c2c-a8c4-92e27c66ade4" />
 
 <!--
 **Botirocky/botirocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
